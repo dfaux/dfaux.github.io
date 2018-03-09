@@ -29,11 +29,13 @@ html {
 }
 
 .icons-social i {
-	font-size: 2em;
+	 font-size: 2em;
+	 vertical-align: center;
 }
 
 .icons-tech i {
 	font-size: 3em;
+	 vertical-align: center;
 }
 
 /* Custom Styles */
