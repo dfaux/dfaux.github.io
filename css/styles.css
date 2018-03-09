@@ -29,6 +29,10 @@ html {
 }
 
 .icons-social i {
+	font-size: 2em;
+}
+
+.icons-tech i {
 	font-size: 3em;
 }
 
